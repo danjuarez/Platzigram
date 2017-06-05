@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_loggin">Login</string>
+    <string name="donthaveaccount">Dont have an account?</string>
+    <string name="create_here">create here</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_user">User</string>
+    <string name="text_button_createaccount">Join Us</string>
+    <string name="toolbar_title_createaccount">Create Account</string>
+    <string name="time_card">4 dias</string>
+    <string name="likenumber_card">10 Me Gusta</string>
+    <string name="like">Me Gusta</string>
+
+</resources>
